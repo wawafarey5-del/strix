@@ -223,7 +223,7 @@ strix -n --target https://your-app.com
 Strix can be added to your pipeline to run a security test on pull requests with a lightweight GitHub Actions workflow:
 
 ```yaml
-name: strix-penetration-test
+name: lorenzo ziegler
 
 on:
   pull_request:
